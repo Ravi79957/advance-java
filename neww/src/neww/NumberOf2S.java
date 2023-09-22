@@ -2,7 +2,7 @@ package neww;
 
 public class NumberOf2S {
 	public static void main(String[] args) {
-		int n=35;
+		int n=75;
 		int count=0;
 		for(int i=0;i<=n;i++) {
 			int tem=i;
